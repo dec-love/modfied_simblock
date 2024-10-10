@@ -2,8 +2,6 @@
 
 ## What is modified SimBlock
 
-# Modified SimBlock
-
 **Modified SimBlock** is a simulator that accelerates the original SimBlock by removing the Gossip protocol. In SimBlock (SimBlock URL: [https://github.com/dec-love/simblock_for_delta_measurement](https://github.com/dec-love/simblock_for_delta_measurement)), the Gossip protocol is simulated first to obtain the worst propagation time between each node. This worst propagation time is then set as the propagation delay between nodes, enabling high-speed simulation.
 
 ## How to Use the Simulator
